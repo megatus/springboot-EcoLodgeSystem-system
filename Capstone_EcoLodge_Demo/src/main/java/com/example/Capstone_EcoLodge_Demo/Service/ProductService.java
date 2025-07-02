@@ -2,6 +2,7 @@ package com.example.Capstone_EcoLodge_Demo.service;
 
 import java.util.Arrays;
 import java.util.List;
+
 import org.springframework.stereotype.Service;
 import com.example.Capstone_EcoLodge_Demo.model.Product;
 
@@ -20,8 +21,8 @@ public class ProductService {
 
     public Product getProductsByID(int prodID) {
         return products.stream()
-                       .filter(p -> p.getProdID() == prodID)
-                       .findFirst()
-                       .orElse(null);
+                .filter(p -> p.getProdID() == prodID)
+                .findFirst()
+                .orElse(null);
     }
 }
