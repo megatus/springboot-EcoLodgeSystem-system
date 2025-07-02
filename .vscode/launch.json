@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CapstoneEcoLodgeDemoApplication",
+            "request": "launch",
+            "mainClass": "CapstoneEcoLodgeDemoApplication",
+            "projectName": "EcoLodge_7b038990"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-WebApplication<WebApplication>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.WebApp.WebApplication.WebApplication",
+            "projectName": "WebApplication",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
