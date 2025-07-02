@@ -6,5 +6,3 @@ takkim jedyel
 kkkk\
 gggg
 Ralph Bading kasama si Oliveros
-hello world
-asd
