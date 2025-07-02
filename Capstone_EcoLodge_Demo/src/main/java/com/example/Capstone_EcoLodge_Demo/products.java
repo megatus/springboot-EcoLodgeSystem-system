@@ -2,7 +2,7 @@ package com.example.Capstone_EcoLodge_Demo;
 
 @RestController
 public class products {
-    @RequestMapping("/")
+    @RequestMapping("")
     public String Greet(){
         
         return "Welcome to Hell";
