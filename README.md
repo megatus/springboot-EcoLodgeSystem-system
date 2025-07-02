@@ -5,3 +5,4 @@ asdas
 takkim jedyel
 kkkk\
 gggg
+Ralph Bading kasama si Oliveros
