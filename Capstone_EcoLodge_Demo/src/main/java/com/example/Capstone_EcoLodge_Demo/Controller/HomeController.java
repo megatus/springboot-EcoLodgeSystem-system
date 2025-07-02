@@ -1,3 +1,4 @@
+package com.example.Capstone_EcoLodge_Demo.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

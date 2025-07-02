@@ -1,3 +1,5 @@
+package com.example.Capstone_EcoLodge_Demo.model;
+
 import org.springframework.stereotype.Component;
 
 import lombok.AllArgsConstructor;

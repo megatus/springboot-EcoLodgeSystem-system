@@ -1,11 +1,13 @@
+package com.example.Capstone_EcoLodge_Demo.controller;
+
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.WebApp.WebApplication.Model.Product;
-import com.WebApp.WebApplication.Service.ProductService;
+import com.example.Capstone_EcoLodge_Demo.model.Product;
+import com.example.Capstone_EcoLodge_Demo.service.ProductService;
 
 @RestController
 public class ProductController {

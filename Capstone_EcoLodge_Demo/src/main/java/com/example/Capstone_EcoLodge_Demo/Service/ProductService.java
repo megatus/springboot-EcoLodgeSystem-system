@@ -1,10 +1,12 @@
+package com.example.Capstone_EcoLodge_Demo.service;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Stream;
 
 import org.springframework.stereotype.Service;
-import com.WebApp.WebApplication.Model.Product;
+import com.example.Capstone_EcoLodge_Demo.model.Product;
 
 @Service
 public class ProductService {
