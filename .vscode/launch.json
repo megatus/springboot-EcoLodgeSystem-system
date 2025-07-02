@@ -4,6 +4,13 @@
             "type": "java",
             "name": "CapstoneEcoLodgeDemoApplication",
             "request": "launch",
+            "mainClass": "com.example.Capstone_EcoLodge_Demo.CapstoneEcoLodgeDemoApplication",
+            "projectName": "WebApplication"
+        },
+        {
+            "type": "java",
+            "name": "CapstoneEcoLodgeDemoApplication",
+            "request": "launch",
             "mainClass": "CapstoneEcoLodgeDemoApplication",
             "projectName": "EcoLodge_7b038990"
         },
