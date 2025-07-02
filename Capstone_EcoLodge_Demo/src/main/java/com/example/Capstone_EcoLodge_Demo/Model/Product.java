@@ -1,4 +1,4 @@
-package com.WebApp.WebApplication.Model;
+package com.example.Capstone_EcoLodge_Demo.model;
 
 import org.springframework.stereotype.Component;
 
