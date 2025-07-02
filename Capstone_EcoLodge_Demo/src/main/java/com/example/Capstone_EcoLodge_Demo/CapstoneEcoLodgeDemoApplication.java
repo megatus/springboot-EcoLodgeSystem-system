@@ -8,5 +8,6 @@ public class CapstoneEcoLodgeDemoApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(CapstoneEcoLodgeDemoApplication.class, args);
+        System.out.println("hello");
     }
 }
